@@ -1,0 +1,15 @@
+CREATE TABLE users (
+    user_id INT PRIMARY KEY AUTO_INCREMENT,
+    username VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE health_data (
+    data_id INT PRIMARY KEY AUTO_INCREMENT,
+    user_id INT,
+    activityCalories INT,
+    heart_rate INT,
+    submission_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+);

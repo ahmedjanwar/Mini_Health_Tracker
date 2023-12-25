@@ -33,28 +33,31 @@ Before you begin, ensure you have the following tools installed:
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/mini-health-tracker.git
-   
+   ´´´
 Navigate to the project directory:
 
-```
+``` 
   cd mini-health-tracker
-´´´
+```
 Install dependencies:
 
-```bash
+```
   yarn install
+```
+#Usage
+##Start the development server:
 
-Usage
-Start the development server:
-
-```bash
+```
     yarn start
+```
+##Open your browser and visit
+```
+http://localhost:3000.
+```
 
-Open your browser and visit http://localhost:3000.
-
-Use the application to add, view, and track health data.
+##Use the application to add, view, and track health data.
 
 Built With
 React - JavaScript library for building user interfaces.

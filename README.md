@@ -38,9 +38,9 @@ Before you begin, ensure you have the following tools installed:
    
 Navigate to the project directory:
 
-```bash
+```
   cd mini-health-tracker
-
+´´´
 Install dependencies:
 
 ```bash

@@ -68,6 +68,18 @@ The Spring Boot backend is now running on `http://localhost:8080`. You can use i
 ## Testing
 
 To run tests, use the following command:
-
-```bash
+```
 mvn test
+```
+
+#test results
+##Data Controller
+<img width="1357" alt="Screenshot 2023-12-25 at 14 39 06" src="https://github.com/ahmedjanwar/Mini_Health_Tracker/assets/57673382/c2f36b04-84ee-4d7d-bb45-3b6809d101fb">
+
+##User controller
+<img width="1353" alt="Screenshot 2023-12-25 at 14 41 09" src="https://github.com/ahmedjanwar/Mini_Health_Tracker/assets/57673382/79b2e827-ae2a-4d61-bbbd-1e23cefe5277">
+
+
+
+
+

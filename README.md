@@ -63,4 +63,6 @@ Built With
 React - JavaScript library for building user interfaces.
 axios - HTTP client for making requests to the server.
 react-vis - Declarative data visualization components.
+<img width="1435" alt="Screenshot 2023-12-25 at 14 44 52" src="https://github.com/ahmedjanwar/Mini_Health_Tracker/assets/57673382/9031f098-12c5-4e3a-a3e9-b67dfd77e478">
+
 

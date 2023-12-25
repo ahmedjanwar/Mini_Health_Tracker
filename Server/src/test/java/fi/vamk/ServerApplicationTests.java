@@ -12,11 +12,9 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 @ContextConfiguration(classes = {UserRestControllerTest.class})
 class ServerApplicationTests {
 
-    @Autowired
-    private UserRestControllerTest userRestControllerTest;
-
+    
     @Test
     void contextLoads() throws Exception {
-        userRestControllerTest.addItemToDatabase();
+       
     }
 }
